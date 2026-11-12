@@ -1,0 +1,6 @@
+mkdir portfolio
+cd portfolio
+mkdir images
+touch index.html
+pwd
+ls
